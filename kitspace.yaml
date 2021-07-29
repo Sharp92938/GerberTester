@@ -1,0 +1,18 @@
+summary: Testing kitspace
+site: A site you would like to link to (include http:// or https://)
+color: The solder resist color of the preview rendering. Can be one of:
+       - green
+       - red
+       - blue
+       - black
+       - white
+       - orange
+       - purple
+       - yellow
+bom: https://github.com/Sharp92938/GerberTester/blob/main/BOM.csv
+gerbers: https://github.com/Sharp92938/GerberTester/tree/main/C13d0c9d-6aa8-4a8c-83a9-29c2b1538d58/upload
+eda:
+  type: kicad
+  pcb: path/to/your/file.kicad_pcb
+readme: A path to your README file in case it isn't in the repository root directory.
+multi: Identifier field only used if the repository contains multiple projects.
